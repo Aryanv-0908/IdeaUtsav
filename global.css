@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    line-height: normal;
+
+}
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+
+html {
+    scrollbar-width: none;
+}
+
+
+@media screen and (max-width: 767px) {
+    
+    .first {
+      padding: 20px;
+    }
+  
+
+    .header {
+      padding: 0 20px; 
+      gap: 10px; 
+    }
+    .formkitinstagram-parent {
+      gap: 10px; 
+    }
+  
+
+    .second {
+      padding: 40px 20px; 
+    }
+    .second-child {
+      display: none; 
+    }
+    .people-1-parent {
+      justify-content: space-around; 
+      flex-wrap: wrap; 
+    }
+
+  
+    .third {
+      padding: 40px 20px; 
+    }
+    .third-child {
+      display: none; 
+    }
+    .sponsor-logo-row {
+      flex-wrap: wrap; 
+      justify-content: center; 
+    }
+    .frame-parent {
+      flex-direction: column; 
+      gap: 20px; 
+    }
+    .akar-iconsarrow-back {
+        width: 50px; 
+        height: 50px;
+        right: 20px; 
+        bottom: 20px;
+      }
+  }
+  
+  

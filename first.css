@@ -1,0 +1,306 @@
+.first-child {
+    width: 1440px;
+    height: 900px;
+    position: relative;
+    background-color: #000;
+    display: none;
+    max-width: 100%;
+  }
+  .copy-of-hashtag-logo-dark-bac {
+    height: 78px;
+    width: 135px;
+    position: relative;
+    object-fit: cover;
+  }
+  .ideautsav {
+    width: 97px;
+    min-width: 97px;
+    color: white;
+  }
+  .ideautsav,
+  .register,
+  .sponsors {
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .register {
+    width: 89px;
+    min-width: 89px;
+    color: white;
+  }
+  .sponsors {
+    align-self: stretch;
+    min-width: 102px;
+    color: white;
+  }
+  .s-p-o-n-s-o-r-s-p-r-i-z-e-s {
+    width: 102px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px 0 0;
+    box-sizing: border-box;
+  }
+  .prizes {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 65px;
+    color: white;
+  }
+  .s-p-o-n-s-o-r-s-p-r-i-z-e-s1 {
+    width: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px 0 0;
+    box-sizing: border-box;
+  }
+  .c-o-m-p-o-n-e-n-t-a,
+  .i-d-e-a-u-t-s-a-v-r-e-g-i-s-t {
+    margin: 0;
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+    color: white;
+  }
+  .i-d-e-a-u-t-s-a-v-r-e-g-i-s-t {
+    width: 587px;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    font-family: Montserrat;
+  }
+  .c-o-m-p-o-n-e-n-t-a {
+    width: 665px;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 24px;
+    box-sizing: border-box;
+  }
+  .formkitinstagram-icon,
+  .simple-iconslinktree {
+    height: 35px;
+    width: 35px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 35px;
+  }
+  .formkitinstagram-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 1px;
+    gap: 10px;
+  }
+  .header,
+  .header-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 21px;
+  }
+  .header {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 0 50px 3px 42px;
+    box-sizing: border-box;
+    gap: 20px;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .ideautsav-logo-1-icon {
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .ideautsav-logo-1-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 11px 0 10px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .where-creativity-takes {
+    margin: 0;
+    font-weight: 600;
+    white-space: pre-wrap;
+  }
+  .solve {
+    font-weight: 600;
+  }
+  .problems-with-your,
+  .real-world {
+    font-weight: 800;
+    font-family: Montserrat;
+    color: #70c3ff;
+  }
+  .problems-with-your {
+    font-weight: 600;
+    color: #fff;
+  }
+  .solve-real-world-problems-with {
+    margin: 0;
+  }
+  .where-creativity-takes-container {
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    z-index: 1;
+  }
+  .idea-u-t-s-a-vlogo,
+  .idea-u-t-s-a-vlogo-wrapper {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .idea-u-t-s-a-vlogo {
+    width: 732px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 3px;
+  }
+  .idea-u-t-s-a-vlogo-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+  .hashtag {
+    font-weight: 800;
+    font-family: Montserrat;
+  }
+  .hashtag,
+  .ideathon {
+    color: #fdf4a7;
+  }
+  .span {
+    color: #fff;
+  }
+  .hashtag-the-official-tech-soc {
+    margin: 0;
+  }
+  .an {
+    color: #fff;
+  }
+  .ideathon1 {
+    color: #fdf4a7;
+  }
+  .is-a-creative {
+    color: #fff;
+  }
+  .brainstorm {
+    color: #fdf4a7;
+  }
+  .span1 {
+    color: #fff;
+  }
+  .collaborate {
+    color: #fdf4a7;
+  }
+  .and {
+    color: #fff;
+  }
+  .join-us-as,
+  .transform {
+    color: #fdf4a7;
+  }
+  .an-ideathon-is-a-creative-mara {
+    margin: 0;
+  }
+  .hashtag-the-official-container {
+    align-self: stretch;
+    position: relative;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    z-index: 1;
+  }
+  .hashtag-official-society {
+    width: 1104px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 42px;
+    max-width: 100%;
+  }
+  .where-creativity-takes-center {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 100%;
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    font-family: Montserrat;
+  }
+  .first {
+    width: 100%;
+    position: relative;
+    background-color: #000;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 40px 38px 118px;
+    box-sizing: border-box;
+    gap: 67px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  /*@media screen and (max-width: 1200px) {
+    .header {
+      padding-left: 21px;
+      padding-right: 25px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .c-o-m-p-o-n-e-n-t-a {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .hashtag-official-society {
+      gap: 21px;
+    }
+    .first {
+      gap: 33px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .where-creativity-takes-container {
+      font-size: 19px;
+      line-height: 29px;
+    }
+    .first {
+      gap: 17px;
+    }
+  }*/
